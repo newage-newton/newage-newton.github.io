@@ -6,15 +6,15 @@ I started this page to keep myself sane during the Coronavirus pandemic. I jot d
 
 ## Currently Reading
 
+* **Dark Star Safari** - *Paul Theroux*
+
+
+
+
+
+## Finished Recently
+
 * **Disgrace** - *J M Coetzee*
-
-
-
-
-
-## Books Finished Recently
-
-* **Early India** - *Romila Thapar*
 
 
 
