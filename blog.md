@@ -6,15 +6,11 @@ I started this page to keep myself sane during the Coronavirus pandemic. I jot d
 
 ## Currently Reading
 
-* **Dark Star Safari** - *Paul Theroux*
-
-
-
-
+* The Last Train to Zona Verde - *Paul Theroux*
 
 ## Finished Recently
 
-* **Disgrace** - *J M Coetzee*
+* **Dark Star Safari** - *Paul Theroux*
 
 
 
@@ -22,16 +18,16 @@ I started this page to keep myself sane during the Coronavirus pandemic. I jot d
 
 ## Music
 
-* *Guruvashtakam* by Sounds of Isha
+* *If You Know That I'm Lonely* by FUR
 
-  <iframe src="https://open.spotify.com/embed/track/3heX5PL3CC6g3AcaPYLX6E" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
+  <iframe src="https://open.spotify.com/embed/track/5gCTgcvFfs0d9ShWLY2S1V" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-* *Nothing will Change* by Celer
 
-  <iframe src="https://open.spotify.com/embed/track/66fqfCrvzyZ7AOKnDGVm8z" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* *Pancha Nadai Pallavi* by Shankar, Zakir Hussain, T.H. Vinayakram, Caroline
+
+  <iframe src="https://open.spotify.com/embed/track/5b7IIUpOXAEemY8vs2vBlE" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
   
 
