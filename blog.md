@@ -6,7 +6,7 @@ I started this page to keep myself sane during the Coronavirus pandemic. I jot d
 
 ## Currently Reading
 
-* The Last Train to Zona Verde - *Paul Theroux*
+* **The Last Train to Zona Verde** - *Paul Theroux*
 
 ## Finished Recently
 
