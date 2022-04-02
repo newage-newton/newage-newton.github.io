@@ -1,33 +1,18 @@
 # Hi I am Prince
 
-I started this page to keep myself sane during the Coronavirus pandemic. I jot down my [thoughts here](./thoughts.html)
-
-
+I started this page to keep myself sane during the Coronavirus pandemic. I jot down my [thoughts here](https://newage-newton.github.io/thoughts.html)
 
 ## Currently Reading
+- **Burmese Days** - _George Orwell_
+- **The Great Game** - _Peter Hopkirk_
 
-* **The Last Train to Zona Verde** - *Paul Theroux*
 
 ## Finished Recently
 
-* **Dark Star Safari** - *Paul Theroux*
-
-
-
-
+- **Around the World in 80 Trains** - _Monisha Rajesh_
 
 ## Music
 
-* *If You Know That I'm Lonely* by FUR
+-   _Raag Shuddha Kalyan_ by Janhavi Phansalkar
 
-  <iframe src="https://open.spotify.com/embed/track/5gCTgcvFfs0d9ShWLY2S1V" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
-
-
-* *Pancha Nadai Pallavi* by Shankar, Zakir Hussain, T.H. Vinayakram, Caroline
-
-  <iframe src="https://open.spotify.com/embed/track/5b7IIUpOXAEemY8vs2vBlE" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  
-  
-
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/vKQmJ2wDix8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
